@@ -1,4 +1,4 @@
-cstr = "I love geeksforgeeks"
+cstr = "I love python"
    
 # Printing the center aligned 
 # string with fillchr
@@ -18,9 +18,9 @@ print (cstr.rjust(40, '-'))
 '''
 output
 Center aligned string with fillchr:
-##########I love geeksforgeeks##########
+#############I love python##############
 The left aligned string is :
-I love geeksforgeeks--------------------
+I love python---------------------------
 The right aligned string is :
---------------------I love geeksforgeeks
+---------------------------I love python
 '''
