@@ -1,0 +1,7 @@
+# Changing positional argument
+print("Second argument: {1:3d}, first one: {0:7.2f}".
+      format(47.42, 11))
+'''
+output
+Second argument:  11, first one:   47.42
+'''
