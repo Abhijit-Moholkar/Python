@@ -10,3 +10,4 @@ while (n<10000):
         l.append(n)
     n += 1
 print(l[1000])
+
