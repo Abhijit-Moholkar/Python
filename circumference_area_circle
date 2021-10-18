@@ -1,0 +1,11 @@
+from math import pi
+
+r = float(input("Enter radius of Circle: "))
+
+
+l = 2 * pi * r
+
+area = pi * r**2
+
+print("Length of circumference of circle is %.2f" %l)
+print("Area of circle is %.2f" %area)
